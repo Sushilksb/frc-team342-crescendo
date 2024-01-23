@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Categories=Development
+Name=FRC VS Code 2024
+Comment=Official C++/Java IDE for the FIRST Robotics Competition
+Exec=/home/team342/wpilib/2024/frccode/frccode2024
+Icon=/home/team342/wpilib/2024/frccode/wpilib-256.ico
+Terminal=false
+StartupNotify=true
